@@ -1,0 +1,30 @@
+{
+  "name": "distributed-storage-electron",
+  "version": "1.0.0",
+  "description": "can storage",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --debug",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shicongbuct/distributed-storage-electron.git"
+  },
+  "keywords": [
+    "distributed",
+    "storage",
+    "electron"
+  ],
+  "author": "shicongbuct",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shicongbuct/distributed-storage-electron/issues"
+  },
+  "homepage": "https://github.com/shicongbuct/distributed-storage-electron#readme",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^3.0.2"
+  }
+}
